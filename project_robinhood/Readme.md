@@ -24,6 +24,6 @@
 *   Pandas
 *   Numpy
 *   Sklearn
-*   Statmodel
-*   Aprior (Apyori)
+*   Statsmodel
+*   Apriori (Apyori)
 *   Каждая задача записана в отдельный файл jupyter notebook
